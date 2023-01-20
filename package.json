@@ -1,0 +1,17 @@
+{
+	"name": "vercel-api-ts",
+	"version": "0.0.1",
+	"author": "MrAmericanMike",
+	"description": "",
+	"main": "",
+	"type": "module",
+	"scripts": {
+		"tsc": "tsc"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"@vercel/node": "^2.8.14",
+		"typescript": "^4.9.4"
+	}
+}
+
